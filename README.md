@@ -1,2 +1,2 @@
 # voice-assistancce
-cide vobing
+cide vobing for logic circuit lap
